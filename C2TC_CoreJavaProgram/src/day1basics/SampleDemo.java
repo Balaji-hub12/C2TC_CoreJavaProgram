@@ -1,10 +1,8 @@
 package day1basics;
 
-public class SampleDemo {
-
+public class SampleDemo{
+	
 	public static void main(String[] args) {
-		System.out.println("Welcoome to JFS...");
-
+		System.out.println("Welcome to JFS...");
 	}
-
 }
